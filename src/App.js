@@ -16,7 +16,7 @@ import './App.css';
  //import { BrowserRouter } from 'react-router-dom';
  //import Home_Task from './Task/Home_Task.js';
 
-// //import GetData from './GetData';
+//import GetData from './GetData';
 // //import ErrorHandling from './ErrorHandling'
 // {/*import Login from './Login.js'
 // import Product from './Product'
